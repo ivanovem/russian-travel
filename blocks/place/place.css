@@ -1,0 +1,14 @@
+.place{
+display: grid;
+grid-template-columns: repeat(2, 1fr);
+grid-template-rows: auto auto;
+grid-column-gap: 40px;
+grid-row-gap: 48px;
+font-family: 'Inter', Arial, sans-serif;
+}
+
+@media screen and  (max-width:568px){
+    .place{
+        grid-template-columns: 1fr;
+    }
+}
