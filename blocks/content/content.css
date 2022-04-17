@@ -2,6 +2,7 @@
 display: grid;
 grid-row-gap: 92px;
 flex-shrink: 0;
+margin: 0;
 }
 
 @media screen and  (max-width:984px){

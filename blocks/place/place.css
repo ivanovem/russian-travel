@@ -10,5 +10,6 @@ font-family: 'Inter', Arial, sans-serif;
 @media screen and  (max-width:568px){
     .place{
         grid-template-columns: 1fr;
+        grid-row-gap: 32px;
     }
 }
