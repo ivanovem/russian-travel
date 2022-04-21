@@ -4,6 +4,14 @@
   align-self: flex-end;
 }
 
+@media screen and  (max-width:984px){
+  .footer__copyright{
+    align-self: flex-start;
+    font-size: 14px;
+    line-height: 16px; 
+  }
+}
+
 @media screen and  (max-width:568px){
   .footer__copyright{
     align-self: flex-start;

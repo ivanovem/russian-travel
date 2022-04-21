@@ -1,3 +1,35 @@
 .lead__image{
-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 984px;
+    min-height: 615px;
+    box-sizing: border-box;
+    background-image: url("../../../images/lead.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;   
+}
+
+@media screen and  (max-width:1140px){
+    .lead__image{
+        width: 100%;
+        min-height: 640px;
+    }
+}
+
+@media screen and  (max-width: 984px){
+    .lead__image{
+        width: 100%;
+        min-height: 480px;
+    }
+}
+
+@media screen and  (max-width:720px){
+    .lead__image{
+        width: 100%;
+        min-height: 200px;
+        padding: 0;
+        margin: 0;
+    }
 }

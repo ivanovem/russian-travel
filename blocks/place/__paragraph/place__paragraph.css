@@ -12,17 +12,17 @@
     .place__paragraph{
         line-height: 26px;
         font-size: 16px;
-        max-width: 352px;
+        max-width: 100%;
         margin-bottom: 25px;
     }
 }
 
-@media screen and  (max-width:568px){
+@media screen and  (max-width:720px){
     .place__paragraph{
         line-height: 26px;
         font-size: 16px;
-        max-width: 288px;
-        margin-bottom: 25px;
+        max-width: 95%;
+        margin-bottom: 0 auto 25px auto;
         align-self: center;
         margin-left: 16px;
     }
