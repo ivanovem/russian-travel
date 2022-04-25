@@ -22,5 +22,6 @@
     .page{
         width:98%;
         margin: 0 0;
+        padding-top: 16px;
     }
   }

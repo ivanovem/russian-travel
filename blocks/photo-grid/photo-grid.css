@@ -19,14 +19,14 @@ margin: 0 48px;
 @media screen and  (max-width: 984px){
     .photo-grid{
         min-height: 720px;
-        margin: 0 auto;
+        margin-left: auto;
+        margin-right: auto;
     }
 }
 
 @media screen and  (max-width:720px){
     .photo-grid{
         width: 98%;
-        margin: 0 auto;
         gap: 12px;
     }
 }

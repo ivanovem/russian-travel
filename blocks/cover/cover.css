@@ -10,12 +10,12 @@
 
 @media screen and  (max-width:984px){
   .cover{
-      padding: 0;
+      padding-left: 10px;
   }
 }
 
 @media screen and  (max-width:568px){
   .cover{
-      padding: 0;
+      padding-left: 10px;
   }
 }

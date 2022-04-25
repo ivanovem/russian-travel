@@ -1,10 +1,10 @@
 .place__image{
-
+    box-sizing: border-box;
 }
 
 @media screen and  (max-width:1140px){
     .place__image{
-        min-height: 440px;
+        max-height: 440px;
         max-width: 440px;
     }
 }
@@ -13,15 +13,13 @@
     .place__image{
         max-height: 340px;
         max-width: 340px;
-        overflow: hidden;
     }
 }
 
 @media screen and  (max-width:720px){
     .place__image{
-        overflow: hidden;
         max-width: 320px;
-        max-height: 320px;
+        height: 320px;
         padding: 0;
         margin: 0;
     }
