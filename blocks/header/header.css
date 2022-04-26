@@ -4,7 +4,7 @@
   flex-direction: row;
   justify-content: space-between;
   max-width: 1184px;
-  margin: 0 48px 48px 48px;
+  margin: 0 45px 48px 45px;
 }
 
 @media screen and  (max-width:1140px){

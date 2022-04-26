@@ -23,8 +23,7 @@
     .place__paragraph{
         line-height: 26px;
         font-size: 16px;
-        max-width: 95%;
-        margin-bottom: 0;
+        max-width: 90%;
         align-self: center;
         margin-left: 16px;
     }

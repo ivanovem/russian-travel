@@ -8,14 +8,3 @@
   }
 }
 
-@media screen and  (max-width:984px){
-  .cover{
-      padding-left: 10px;
-  }
-}
-
-@media screen and  (max-width:568px){
-  .cover{
-      padding-left: 10px;
-  }
-}

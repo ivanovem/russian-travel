@@ -20,14 +20,13 @@
 
 @media screen and  (max-width: 984px){
     .lead__image{
-        width: 768px;
+        width: 100%;
         min-height: 480px;
     }
 }
 
 @media screen and  (max-width:780px){
     .lead__image{
-        width: 320px;
         min-height: 200px;
         padding: 0;
         margin: 0;
