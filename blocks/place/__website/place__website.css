@@ -4,6 +4,6 @@ align-self: end;
 
 @media screen and  (max-width:720px){
     .place__website{
-        margin-left: 16px;
+    margin: 0;
     }
 }
