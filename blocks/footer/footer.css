@@ -1,5 +1,6 @@
 .footer{
   display: flex;
+  align-self: center;
   flex-direction: row;
   justify-content: space-between;
   gap: 18px;
@@ -20,7 +21,10 @@
 
 @media screen and  (max-width: 984px){
   .footer{
+    width: 95%;
     padding-top: 88px;
+    margin-left: 24px;
+    margin-right: 24px;
   }
 }
 

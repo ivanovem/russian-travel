@@ -6,13 +6,12 @@
   max-width: 690px;
   margin-left: 148px;
   font-family: 'Inter', Arial, sans-serif;
-  margin-right: 0;
 }
 
 @media screen and  (max-width:1140px){
   .intro{
     max-width: 928px;
-    margin-left: 48px;
+    margin-left: 40px;
   }
 }
 
