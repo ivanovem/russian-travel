@@ -1,7 +1,7 @@
  # sprint-3
 Яндекс.Практикум. Проектная работа по верстке - "Путешествия по России"
 
-https://xxpegasxx.github.io/russian-travel/
+https://ivanovem.github.io/russian-travel/
 
 ## Стек
 При реализации настоящего проекта были использованы следующие технологии:
